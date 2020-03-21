@@ -1,7 +1,7 @@
 # Image-Processing-App
 Various techniques used for Image Processing. The techniques include:
 
-![Test Image 1](Image-Processing 1.png)
+![Test Image 1](Image-Processing 1.JPG)
 
  * Zooming In - downsampling an image
  * Zooming Out - upsampling an image. Algorithms implemented are:
