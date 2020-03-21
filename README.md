@@ -1,7 +1,7 @@
 # Image-Processing-App
 Various techniques used for Image Processing. The techniques include:
 
-
+![Image Processing](https://user-images.githubusercontent.com/42758772/77232951-68a70f00-6b61-11ea-8ce3-c11125eff9be.png)
 
  * Zooming In - downsampling an image
  * Zooming Out - upsampling an image. Algorithms implemented are:
@@ -35,3 +35,5 @@ Various techniques used for Image Processing. The techniques include:
    * RLE on Bit Planes
    * Huffman Encoding/Decoding
    * Lempel–Ziv–Welch (LZW) Encoding/Decoding
+ 
+ ![Image Processing 1](https://user-images.githubusercontent.com/42758772/77233011-d3f0e100-6b61-11ea-8d5f-994402f6c1a4.JPG)
